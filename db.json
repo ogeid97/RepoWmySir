@@ -3,22 +3,22 @@
  {
  "materiale": "Multimateriale",
  "colli": 1, 
- "kg": 6,00, 
+ "kg": 6.00, 
  }, 
  {
  "materiale": "Plastica",
  "colli": 2, 
- "kg": 10,00, 
+ "kg": 10.00, 
  }, 
  {
  "materiale": "Vetro",
  "colli": 2, 
- "kg": 18,00, 
+ "kg": 18.00, 
  }, 
  {
  "materiale": "Ingombranti",
  "colli": 3, 
- "kg": 45,00, 
+ "kg": 45.00, 
  }
  ]
 }
