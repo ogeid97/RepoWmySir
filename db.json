@@ -1,4 +1,12 @@
 {
+ "citta": "Rosarno",
+ "cdr": "Medma",
+ "indirizzo": "Via M.L. King, Via P. Nenni",
+ "codice utente": 84125,
+ "data": "17-09-2019 14.05",
+ "operatore": 2,
+ "progressivo": 3456, 
+ "totale": 99.00,
  "Conferimenti": [
  {
  "materiale": "Multimateriale",
