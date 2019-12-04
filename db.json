@@ -1,5 +1,6 @@
 {
 "scontrini": [
+ {
  "data": "17-09-2019 14.05",
  "citta": "Rosarno",
  "cdr": "Medma",
@@ -30,6 +31,7 @@
  "kg": 45.00 
  }
  ]
+ }
 ]
 }
 
