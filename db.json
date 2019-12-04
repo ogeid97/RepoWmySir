@@ -1,14 +1,17 @@
 {
 "scontrini": [
  {
- "data": "17-09-2019 14.05",
- "citta": "Rosarno",
- "cdr": "Medma",
+ "data": "# 17-09-2019 14.05",
+ "citta": "Città di Rosarno",
+ "cdr": "Centro di raccolta Medma",
  "indirizzo": "Via M.L. King, Via P. Nenni",
- "codice utente": 84125,
- "operatore": 2,
- "progressivo": 3456, 
- "totale": 99.00,
+ "sito": "wmysir.org",
+ "codice utente": "#84125 Codice utente",
+ "operatore": "Operatore: 2",
+ "progressivo": "Progressivo n. 3456", 
+ "totale": "TOTALE kg: 99.00",
+ "sitocdr": "https://wmysir.org/cdr-di-rosarno/",
+ "software": "Software MyCdr v4.0",
  "Conferimenti": [
  {
  "materiale": "Multimateriale",
